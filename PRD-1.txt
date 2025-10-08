@@ -1,0 +1,1007 @@
+# Sadik International School Website Development
+## Complete Product Requirements Document (PRD)
+
+**Prepared by:** Apex Webs (apexwebs.co.ke)  
+**Prepared for:** Sadik International School, Tudor, Mombasa  
+**Current Site:** https://sadikschooltudor.sc.ke/  
+**Document Version:** 2.0  
+**Date:** October 7, 2025  
+**Project Budget:** KES 45,000
+
+---
+
+## EXECUTIVE SUMMARY
+
+Sadik International School requires a modern, professional website that positions the institution competitively within Mombasa's international education market. This document outlines Apex Webs' comprehensive approach to delivering a high-quality, SEO-optimized website within a startup-friendly budget of KES 45,000.
+
+**Key Objectives:**
+- Modernize digital presence to international standards
+- Establish strong online visibility through integrated SEO
+- Create scalable foundation for future growth
+- Maximize value through strategic phasing
+
+---
+
+## 1. PROJECT OVERVIEW
+
+### 1.1 School Profile
+**Name:** Sadik International School Tudor  
+**Location:** Tudor, Mombasa, Kenya  
+**Motto:** "Empowering Global Leaders with Innovative Education"  
+**Year Groups:** Years 8-11  
+**Curriculum:** Cambridge International (IGCSE/British System)  
+**Facilities:** Swimming pool, modern classrooms, qualified international curriculum teachers  
+**Target Audience:** Parents seeking quality international education in Mombasa
+
+### 1.2 Current Situation
+**Existing Website Analysis:**
+- ✅ Basic single-page structure
+- ✅ School motto and minimal mission statement
+- ❌ No visual content (photos/videos)
+- ❌ Missing critical information (admissions, curriculum details, contact)
+- ❌ Non-responsive design
+- ❌ No SEO optimization
+- ❌ Not competitive with peer institutions
+
+### 1.3 Competitive Landscape
+**Mombasa International Schools Analyzed:**
+- Braeburn School Mombasa
+- Aga Khan Academy Mombasa
+- Light International School
+- Makini Schools
+
+**Common Success Factors Identified:**
+- Professional photography and visual storytelling
+- Clear curriculum information
+- Mobile-optimized design
+- Strong SEO presence
+- Easy-to-find admissions information
+- Active online engagement
+
+### 1.4 Project Goals
+1. **Professional Image:** Website comparable to top international schools
+2. **Visibility:** Rank on Google for key search terms in Mombasa
+3. **Engagement:** Convert website visitors to school inquiries
+4. **Scalability:** Foundation that grows with the school
+5. **Cost-Effectiveness:** Maximum value within startup budget
+
+---
+
+## 2. INTEGRATED SEO STRATEGY
+
+SEO is not an afterthought—it's built into every phase of development.
+
+### 2.1 Pre-Development SEO Audit (Week 1)
+
+**Existing Site Analysis:**
+- Audit current Google rankings and traffic (if any)
+- Identify existing backlinks
+- Document current URL structure
+- Analyze competitor SEO strategies
+- Research Mombasa education market keywords
+
+**Deliverables:**
+- Baseline SEO report
+- Competitor analysis
+- Target keyword list (15-20 keywords)
+- Redirect map for any existing URLs
+
+### 2.2 Target Keywords (Primary Focus)
+
+**Location-Based Keywords:**
+- "International school Mombasa"
+- "Cambridge IGCSE Mombasa"
+- "British curriculum Tudor"
+- "Secondary school Mombasa"
+- "IGCSE school Kenya"
+
+**Program-Specific Keywords:**
+- "Cambridge curriculum Kenya"
+- "Years 8-11 Mombasa"
+- "International education Mombasa"
+- "British education system Kenya"
+- "IGCSE examination center"
+
+**Long-Tail Keywords:**
+- "Best international school Tudor area"
+- "Cambridge school near Mombasa"
+- "Affordable international school Mombasa"
+
+### 2.3 Technical SEO Implementation
+
+**Built Into Development:**
+- Clean, SEO-friendly URL structure (e.g., /about-us, /cambridge-curriculum)
+- Proper heading hierarchy (H1 → H2 → H3)
+- Schema.org markup (EducationalOrganization + LocalBusiness)
+- Open Graph tags for social media sharing
+- XML sitemap with automatic generation
+- Robots.txt optimized for search engines
+- Mobile-first responsive design
+- Page load speed < 3 seconds
+- HTTPS security (SSL certificate)
+- Image optimization (WebP format, descriptive filenames, alt tags)
+
+**Google Services Setup:**
+- Google Search Console integration
+- Google Analytics 4 tracking
+- Google Business Profile optimization
+- Local business citations (15-20 directories)
+
+### 2.4 On-Page SEO Elements
+
+**Every Page Includes:**
+- Unique, keyword-rich meta title (50-60 characters)
+- Compelling meta description (150-160 characters)
+- Header tags with keyword integration
+- Optimized image alt text
+- Internal linking structure
+- Location signals (Tudor, Mombasa, Kenya)
+- Call-to-action buttons
+
+**Content Optimization:**
+- Natural keyword integration (no stuffing)
+- User-focused, valuable content
+- Proper keyword density (1-2%)
+- Related terms and synonyms
+- Clear, scannable formatting
+
+### 2.5 Local SEO Focus
+
+**Critical for Mombasa Market:**
+- Google Business Profile with complete information
+- NAP consistency (Name, Address, Phone) across all platforms
+- Local directory listings:
+  - Ureport Kenya
+  - Mombasa County directories
+  - Education portals
+  - Parent forums and groups
+- Local backlink building
+- Geographic keywords in content
+- Embedded Google Maps
+- Local schema markup
+
+### 2.6 Post-Launch SEO Activities
+
+**Week 1-4:**
+- Submit sitemap to Google Search Console
+- Request indexing of all pages
+- Monitor crawl errors daily
+- Verify all redirects working
+- Track initial keyword positions
+- Build 10-15 quality local citations
+
+**Month 2-3:**
+- Weekly traffic monitoring
+- Monthly ranking reports
+- Content optimization based on data
+- Blog setup for ongoing content
+- Competitor monitoring
+- Additional backlink building
+
+---
+
+## 3. WEBSITE STRUCTURE & FEATURES
+
+### 3.1 Phase 1: Single-Page Launch (Weeks 1-4)
+
+**Demo Presentation (Complimentary)**
+Apex Webs will create a full demo/mockup for school approval before proceeding with development. This ensures 100% satisfaction with design direction.
+
+#### Core Sections:
+
+**1. Header & Navigation**
+- School name and logo
+- Sticky navigation (stays visible on scroll)
+- Mobile hamburger menu
+- Call-to-action button (Enroll Now/Contact Us)
+- Social media icons
+
+**2. Hero Section**
+- Large, engaging hero image (campus or students)
+- School motto: "Empowering Global Leaders with Innovative Education"
+- Tagline: "Cambridge International Curriculum | Years 8-11 | Tudor, Mombasa"
+- Primary CTA button
+- Animated scroll indicator
+
+**3. Quick Stats Banner**
+- Years offered: 8-11
+- Curriculum: Cambridge IGCSE
+- Facilities highlight: e.g., "Swimming Pool | Modern Labs | Qualified Teachers"
+- Student-teacher ratio or similar metric
+
+**4. About Section**
+- School mission and vision (3-4 paragraphs)
+- Core values (bullet points or icons)
+- International focus and community
+- Why choose Sadik (differentiators)
+
+**5. Curriculum Overview**
+- Cambridge IGCSE explanation
+- Year group breakdown (Years 8-11)
+- Academic approach and methodology
+- Subject offerings (general overview)
+- Examination information
+
+**6. Facilities & Features**
+- Icon-based feature grid:
+  - Swimming facilities
+  - Science laboratories
+  - Computer labs
+  - Sports programs
+  - Library resources
+  - Extracurricular activities
+
+**7. Gallery Showcase**
+- Grid layout of 8-12 school photos
+- Lightbox/modal for enlarged viewing
+- Mix of: campus, classrooms, students, activities, facilities
+- Mobile-optimized gallery
+
+**8. Admissions Call-to-Action**
+- Clear enrollment message
+- Academic year information
+- Simple admissions process overview
+- "Apply Now" or "Inquire" button
+- Contact prompt
+
+**9. Testimonials (Optional)**
+- 2-3 parent or student testimonials
+- Photo + name + quote format
+- Builds trust and credibility
+
+**10. Contact Section**
+- Contact form (Name, Email, Phone, Message)
+- Email notifications to school
+- School contact information:
+  - Physical address
+  - Phone number(s)
+  - Email address
+  - Office hours
+- Google Maps embed (interactive)
+- Social media links
+
+**11. Footer**
+- Quick navigation links
+- Contact summary
+- Social media icons
+- Copyright notice
+- "Website by Apex Webs" credit
+- Privacy policy link (if applicable)
+
+### 3.2 Phase 2: Multi-Page Expansion (Months 2-3)
+
+**Conversion to Full Website:**
+
+**Homepage**
+- Condensed version of single-page sections
+- Clear navigation to other pages
+- Focus on calls-to-action
+
+**About Us Page**
+- Expanded school history
+- Detailed mission, vision, values
+- Leadership team (if photos available)
+- Accreditations and affiliations
+- School achievements
+
+**Curriculum Page**
+- Detailed Cambridge IGCSE information
+- Year-by-year breakdown (Years 8-11)
+- Subject offerings by year
+- Teaching methodology
+- Assessment approach
+- Examination details
+- Academic support services
+
+**Admissions Page**
+- Enrollment process (step-by-step)
+- Admission requirements
+- Application deadlines
+- Required documents
+- School calendar
+- Contact for inquiries
+- FAQ section
+
+**Gallery Page**
+- Expanded photo collection
+- Category filters (Campus, Students, Events, Facilities)
+- Masonry or grid layout
+- High-quality image display
+
+**Contact Page**
+- Detailed contact form
+- Multiple contact methods
+- Map with directions
+- Office hours
+- Department contacts (if applicable)
+
+**Additional Features:**
+- Blog/News section setup (for future content)
+- Breadcrumb navigation
+- Consistent design across all pages
+- Enhanced internal linking
+- Individual page SEO optimization
+
+---
+
+## 4. DESIGN SPECIFICATIONS
+
+### 4.1 Visual Identity
+
+**Color Palette:**
+- **Primary:** #1e3a8a (Deep Professional Blue)
+- **Secondary:** #3b82f6 (Bright Accent Blue)
+- **Accent:** #f59e0b (Gold/Amber for highlights)
+- **Neutrals:** 
+  - White (#ffffff)
+  - Light Gray (#f3f4f6)
+  - Dark Gray (#1f2937)
+  - Text: #111827
+
+**Typography:**
+- **Headings:** Poppins (Google Font)
+  - Bold, modern, clean
+  - Sizes: H1 (48px), H2 (36px), H3 (24px)
+- **Body:** Inter or Open Sans
+  - Highly readable
+  - Size: 16-18px
+  - Line height: 1.6-1.8
+
+**Design Style:**
+- Clean, modern, professional
+- International school aesthetic
+- Generous whitespace
+- Card-based layouts
+- Subtle shadows and depth
+- Smooth animations and transitions
+- High-contrast for accessibility
+
+### 4.2 Visual Content
+
+**Photography Requirements:**
+School provides existing photos. Apex Webs will optimize all images:
+
+**Optimization Process:**
+- Resize to optimal web dimensions
+- Compress without quality loss (WebP format)
+- Add descriptive filenames (e.g., sadik-swimming-pool-tudor.jpg)
+- Write SEO-friendly alt text
+- Implement lazy loading
+- Create responsive image variants
+
+**Image Types Needed (15-25 photos):**
+- School building exterior (2-3 angles)
+- Classrooms in use (3-4 photos)
+- Swimming pool/facilities (2-3 photos)
+- Students in activities (4-6 photos, with parent consent)
+- Laboratory or specialized rooms (2-3 photos)
+- Campus grounds (2-3 photos)
+- Group photos or assemblies (1-2 photos)
+
+**Placeholder Strategy:**
+If school photos insufficient, Apex Webs will supplement with:
+- High-quality stock images (Unsplash/Pexels)
+- Generic international school imagery
+- Custom graphics and icons
+- Maximum 30% stock, 70% real photos
+
+### 4.3 User Experience (UX)
+
+**Navigation:**
+- Intuitive, clear menu structure
+- Maximum 3 clicks to any content
+- Breadcrumbs on multi-page version
+- Search function (Phase 2)
+- Fixed header for easy navigation
+
+**Mobile Experience:**
+- Mobile-first design approach
+- Touch-friendly buttons (minimum 44px)
+- Readable text without zooming
+- Optimized images for mobile data
+- Fast loading on 3G/4G networks
+
+**Accessibility:**
+- WCAG 2.1 AA compliance
+- Keyboard navigation support
+- Screen reader compatible
+- Sufficient color contrast (4.5:1 minimum)
+- Alt text for all images
+- Clear focus indicators
+
+**Performance:**
+- Page load time < 3 seconds
+- Optimized images and code
+- Minimal external dependencies
+- Browser caching enabled
+- CDN for static assets (if needed)
+
+---
+
+## 5. TECHNICAL REQUIREMENTS
+
+### 5.1 Development Standards
+
+**Technology Stack:**
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Framework:** Modern responsive framework (Bootstrap 5 or Tailwind CSS)
+- **Forms:** FormSpree or EmailJS for contact form
+- **Maps:** Google Maps Embed API
+- **Analytics:** Google Analytics 4
+- **Fonts:** Google Fonts
+- **Icons:** Font Awesome or Lucide Icons
+
+**Code Quality:**
+- Clean, commented code
+- W3C HTML/CSS validation
+- Cross-browser compatibility (Chrome, Firefox, Safari, Edge)
+- Mobile browser compatibility (iOS Safari, Chrome Mobile)
+- Semantic HTML5 markup
+- Modular, maintainable code structure
+
+**Performance Optimization:**
+- Minified CSS and JavaScript
+- Image compression and lazy loading
+- Browser caching headers
+- Gzip compression
+- Minimal HTTP requests
+- Async loading of non-critical resources
+
+### 5.2 Hosting & Infrastructure
+
+**Included in Package (Year 1):**
+
+**Domain:**
+- Registration or transfer of .sc.ke or .co.ke domain
+- DNS configuration
+- Email forwarding setup (info@, admissions@)
+
+**Hosting:**
+- Quality shared hosting (Truehost Kenya or equivalent)
+- Specifications:
+  - 10GB SSD storage
+  - Unlimited bandwidth
+  - SSL certificate (HTTPS)
+  - Daily backups
+  - 99.9% uptime guarantee
+  - cPanel access
+  - Email accounts (5-10)
+
+**Security:**
+- SSL/TLS certificate (Let's Encrypt)
+- Regular security updates
+- Firewall protection
+- Malware scanning
+- Secure form submissions
+
+### 5.3 Forms & Functionality
+
+**Contact Form Features:**
+- Required field validation
+- Email format validation
+- Phone number formatting
+- Spam protection (reCAPTCHA or honeypot)
+- Email notifications to school
+- Auto-reply to user
+- Mobile-friendly inputs
+- Success/error messages
+
+**Google Maps Integration:**
+- Embedded interactive map
+- School location marker
+- Directions link
+- Mobile map app integration
+
+**Social Media Integration:**
+- Social sharing buttons
+- Social media feed embed (optional)
+- Open Graph meta tags
+- Twitter Card meta tags
+
+---
+
+## 6. CONTENT STRATEGY
+
+### 6.1 Content Structure
+
+**Homepage Content (Single-Page):**
+- Hero headline and tagline (1 sentence)
+- About section (3-4 paragraphs, ~300 words)
+- Curriculum overview (2-3 paragraphs, ~200 words)
+- Admissions CTA (1 paragraph, ~100 words)
+- Contact information
+
+**Multi-Page Content (Phase 2):**
+- About Us page (~600-800 words)
+- Curriculum page (~800-1000 words)
+- Admissions page (~500-700 words)
+- Each page with SEO optimization
+
+### 6.2 Content Development Approach
+
+**Collaborative Process:**
+1. **School provides:** Raw information, bullet points, existing documents
+2. **Apex Webs:** Structures content with SEO optimization
+3. **School reviews:** Ensures accuracy and tone
+4. **Apex Webs:** Polishes and publishes
+
+**SEO Content Guidelines:**
+- Natural keyword integration (not stuffing)
+- Focus on user value first, SEO second
+- Clear, concise sentences
+- Scannable formatting (headers, bullets, short paragraphs)
+- Active voice preferred
+- Location mentions (Tudor, Mombasa, Kenya)
+- Call-to-action in each section
+
+### 6.3 Ongoing Content (Post-Launch)
+
+**Blog/News Setup (Phase 2):**
+- Blog section structure
+- Category system
+- Publishing workflow
+- RSS feed
+- Social sharing
+
+**Recommended Content Topics:**
+- Student achievements
+- Curriculum insights
+- School events and activities
+- Admission tips
+- Educational resources
+- Community involvement
+- IGCSE exam preparation tips
+
+**Publishing Frequency:**
+- 1-2 posts per month minimum
+- Consistent schedule
+- SEO-optimized articles
+- 500-1000 words per post
+
+---
+
+## 7. PROJECT TIMELINE
+
+### Phase 0: Pre-Development (Week 1)
+
+**Days 1-3: SEO Audit & Research**
+- Current site analysis
+- Competitor research
+- Keyword research
+- Redirect map creation
+- Analytics setup preparation
+
+**Days 4-7: Demo Development**
+- Design mockup creation
+- Single-page demo build
+- Content structure setup
+- Client review preparation
+
+**Deliverable:** Free demo presentation for school approval
+
+---
+
+### Phase 1: Foundation & Launch (Weeks 2-4)
+
+**Week 2: Development Kickoff**
+- Contract signing & first payment (KES 25,000)
+- Content collection from school
+- Photo collection and optimization
+- Domain and hosting setup
+
+**Week 3: Core Development**
+- Single-page website development
+- SEO implementation (meta tags, schema markup)
+- Contact form integration
+- Google Maps integration
+- Mobile responsiveness
+- Performance optimization
+
+**Week 4: Testing & Launch**
+- Cross-browser testing
+- Mobile device testing
+- SEO verification
+- Analytics integration
+- Google Search Console setup
+- Client review and revisions
+- Website launch
+- Second payment (KES 10,000)
+
+**Deliverables:**
+- Live single-page website
+- Google Analytics access
+- Google Search Console access
+- Training documentation
+
+---
+
+### Phase 2: Multi-Page Expansion (Months 2-3)
+
+**Month 2: Multi-Page Development**
+- Homepage refinement
+- About Us page development
+- Curriculum page development
+- Admissions page development
+- Gallery page development
+- Contact page development
+- Internal linking structure
+- Individual page SEO optimization
+
+**Month 3: Enhancement & Finalization**
+- Blog/News section setup
+- Additional content pages (if needed)
+- Advanced SEO activities
+- Local directory submissions (15-20 listings)
+- Final testing and optimization
+- Client review and revisions
+- Final payment (KES 10,000)
+
+**Deliverables:**
+- Complete multi-page website
+- Blog system ready for content
+- Enhanced SEO presence
+- Updated training materials
+
+---
+
+### Phase 3: Support & Optimization (Months 2-4)
+
+**Ongoing Activities (60 Days Post-Launch):**
+- Technical support and bug fixes
+- Minor content updates
+- Performance monitoring
+- SEO monitoring and reporting
+- Search Console error resolution
+- Analytics reporting
+- Google Business Profile optimization
+
+**Training Session (2 Hours):**
+- Content management basics
+- How to add/edit text and images
+- Blog post publishing
+- Google Analytics overview
+- Social media integration tips
+- Best practices for website maintenance
+
+---
+
+## 8. BUDGET BREAKDOWN
+
+**Total Project Cost: KES 45,000**
+
+### 8.1 Detailed Cost Allocation
+
+| Item | Phase | Cost | Percentage |
+|------|-------|------|------------|
+| **Website Development (Single-Page)** | Phase 1 | KES 20,000 | 44.4% |
+| **SEO Foundation Setup** | Phase 1 | KES 6,000 | 13.3% |
+| **Hosting & Domain (Year 1)** | Phase 1 | KES 4,000 | 8.9% |
+| **Multi-Page Development** | Phase 2 | KES 10,000 | 22.2% |
+| **Post-Launch Support & SEO** | Phase 3 | KES 5,000 | 11.1% |
+| **TOTAL** | All Phases | **KES 45,000** | **100%** |
+
+### 8.2 What's Included
+
+**Development Services (KES 30,000):**
+✅ Complimentary demo/mockup presentation  
+✅ Single-page responsive website  
+✅ Multi-page expansion (6 pages)  
+✅ Modern, professional design  
+✅ Mobile-first development  
+✅ Contact form with email integration  
+✅ Google Maps integration  
+✅ Photo optimization (school-provided images)  
+✅ Social media integration  
+✅ Cross-browser compatibility  
+✅ 2 rounds of revisions per phase  
+
+**SEO Services (KES 6,000):**
+✅ Pre-development SEO audit  
+✅ Keyword research (15-20 keywords)  
+✅ On-page SEO optimization  
+✅ Schema markup implementation  
+✅ Google Search Console setup  
+✅ Google Analytics 4 setup  
+✅ XML sitemap creation  
+✅ Google Business Profile optimization  
+✅ Local directory submissions (15-20 listings)  
+✅ 60-day SEO monitoring  
+
+**Hosting & Infrastructure (KES 4,000):**
+✅ Domain registration/transfer (.sc.ke or .co.ke)  
+✅ Quality shared hosting (10GB, unlimited bandwidth)  
+✅ SSL certificate (HTTPS security)  
+✅ Email accounts setup (5-10 addresses)  
+✅ Daily backups  
+✅ DNS configuration  
+✅ First year hosting included  
+
+**Support Services (KES 5,000):**
+✅ 60 days post-launch technical support  
+✅ Bug fixes and corrections  
+✅ Minor content updates  
+✅ Performance monitoring  
+✅ SEO monitoring and reporting  
+✅ 2-hour training session  
+✅ Training documentation  
+
+### 8.3 Cost Justification
+
+**Why This Budget Works:**
+
+**1. Strategic Phase Approach**
+- Launch quickly with essentials (Phase 1)
+- Expand as school grows (Phase 2)
+- Pay as you scale
+- No overwhelming upfront cost
+
+**2. Complimentary Demo**
+- Zero risk evaluation
+- See before you commit
+- Ensures satisfaction
+- Builds trust
+- Value: ~KES 8,000 (included free)
+
+**3. School Provides Photos**
+- Eliminates photography costs
+- Authentic school representation
+- Apex Webs optimizes images
+- Savings: ~KES 15,000
+
+**4. Integrated SEO (Not Add-On)**
+- SEO built into development from day one
+- No expensive monthly agency fees
+- Foundation for long-term organic growth
+- Comparable value: ~KES 25,000 (included for KES 6,000)
+
+**5. All-Inclusive Package**
+- No hidden costs
+- Hosting and domain included
+- Support period included
+- Training included
+- Clear, transparent pricing
+
+**Market Comparison:**
+
+| Service | Market Rate | Apex Webs Package |
+|---------|-------------|-------------------|
+| Website Development | KES 30,000 - 50,000 | KES 30,000 |
+| SEO Setup | KES 15,000 - 25,000 | KES 6,000 |
+| Hosting (Year 1) | KES 10,000 - 15,000 | KES 4,000 |
+| Support & Training | KES 8,000 - 12,000 | KES 5,000 |
+| **Total Elsewhere** | **KES 63,000 - 102,000** | **KES 45,000** |
+| **Your Savings** | — | **KES 18,000 - 57,000** |
+
+### 8.4 Payment Schedule
+
+**Option A: Three-Payment Structure** (Recommended)
+
+| Milestone | Amount | Timing |
+|-----------|--------|--------|
+| **Payment 1:** Contract signing + Demo approval | KES 25,000 | Upon approval to proceed |
+| **Payment 2:** Phase 1 launch (single-page live) | KES 10,000 | Upon going live |
+| **Payment 3:** Phase 2 complete (multi-page) | KES 10,000 | 30 days after launch |
+
+**Option B: Two-Payment Structure**
+
+| Milestone | Amount | Timing |
+|-----------|--------|--------|
+| **Payment 1:** Project kickoff | KES 30,000 | Contract signing |
+| **Payment 2:** Final delivery | KES 15,000 | Phase 2 complete |
+
+**Option C: Flexible Monthly Structure**
+
+| Milestone | Amount | Timing |
+|-----------|--------|--------|
+| **Initial:** Demo + domain | KES 15,000 | Contract signing |
+| **Monthly:** Development & support | KES 5,000 × 6 | Months 1-6 |
+| **Total** | KES 45,000 | Over 6 months |
+
+### 8.5 Renewal Costs (Year 2 and Beyond)
+
+**Annual Hosting & Domain Renewal:**
+- Domain: ~KES 1,500/year
+- Hosting: ~KES 2,500-4,000/year
+- **Total:** ~KES 4,000-5,500/year
+
+**Client manages renewals or Apex Webs can assist at no additional cost*
+
+### 8.6 Optional Add-Ons (Future)
+
+When budget allows, school can add:
+
+| Service | Cost | Benefit |
+|---------|------|---------|
+| Professional photography | KES 15,000 | Premium visual content |
+| Video production | KES 20,000-35,000 | Virtual tours, testimonials |
+| Online application system | KES 25,000 | Streamlined admissions |
+| Parent portal | KES 35,000 | Enhanced communication |
+| Blog content writing | KES 3,000/post | Regular fresh content |
+| Monthly SEO management | KES 8,000/month | Ongoing optimization |
+
+---
+
+## 9. SUCCESS METRICS
+
+### 9.1 Technical Performance KPIs
+
+**Apex Webs Guarantees:**
+
+**Speed & Performance:**
+- ✅ Mobile PageSpeed score > 85
+- ✅ Desktop PageSpeed score > 90
+- ✅ Page load time < 3 seconds
+- ✅ First Contentful Paint < 1.5 seconds
+
+**Responsiveness:**
+- ✅ 100% mobile responsive
+- ✅ Works on devices from 320px to 2560px wide
+- ✅ Touch-friendly interface
+- ✅ Readable without zooming
+
+**Quality:**
+- ✅ Zero broken links
+- ✅ W3C HTML/CSS validation
+- ✅ Cross-browser compatibility
+- ✅ Accessibility compliance (WCAG 2.1 AA)
+
+### 9.2 SEO Performance KPIs
+
+**Immediate (Launch Week):**
+- ✅ All pages indexed in Google within 72 hours
+- ✅ Google Business Profile active and verified
+- ✅ Schema markup verified (Google Rich Results Test)
+- ✅ Zero crawl errors in Search Console
+- ✅ Analytics tracking functional
+
+**1 Month:**
+- ✅ Listed in 15+ local directories
+- ✅ Ranking for school name searches
+- ✅ Google Business Profile optimized with posts
+- ✅ Website appearing in Google Maps results
+
+**3 Months:**
+- ✅ Ranking for 3-5 primary keywords (any position)
+- ✅ Organic search traffic established
+- ✅ 20+ quality backlinks
+- ✅ Local pack visibility for "school Mombasa"
+
+**6 Months (Ongoing):**
+- ✅ Top 3 pages for branded searches
+- ✅ Top 10 for 2-3 primary keywords
+- ✅ Increasing month-over-month traffic
+- ✅ Conversion tracking active
+
+### 9.3 User Experience KPIs
+
+**Visitor Engagement:**
+- Average session duration > 2 minutes
+- Bounce rate < 60%
+- Pages per session > 2.5
+- Contact form submissions tracking
+
+**Conversion Tracking:**
+- Contact form submissions
+- Phone number clicks (mobile)
+- Email clicks
+- Map directions requests
+- Social media follows
+
+### 9.4 Business Impact KPIs
+
+**Measurable Outcomes:**
+- Website inquiry volume
+- Inquiry-to-enrollment conversion
+- Brand perception improvement
+- Competitive positioning
+- Parent satisfaction with information access
+
+**Expected ROI:**
+- Investment: KES 45,000
+- If website generates 3-5 new inquiries/enrollments
+- Value per student: ~KES 80,000-120,000/term
+- ROI: 533%-1,333% in first term
+
+---
+
+## 10. CONTENT & ASSET REQUIREMENTS
+
+To ensure timely project delivery, Sadik International School must provide the following:
+
+### 10.1 Written Content Checklist
+
+**General Information:**
+- [ ] School full legal name
+- [ ] Physical address with landmarks
+- [ ] All contact phone numbers
+- [ ] Official email addresses
+- [ ] School founding year/history
+- [ ] School registration/accreditation numbers
+
+**About & Mission:**
+- [ ] School mission statement
+- [ ] School vision statement
+- [ ] Core values (3-5 values)
+- [ ] Brief school history (2-3 paragraphs)
+- [ ] What makes school unique (differentiators)
+
+**Academic Information:**
+- [ ] Curriculum type (Cambridge IGCSE confirmed)
+- [ ] Year groups offered (8-11 confirmed)
+- [ ] Subject offerings by year
+- [ ] Teaching methodology/approach
+- [ ] Academic calendar 2025/2026
+- [ ] Examination details (IGCSE, A-Level if applicable)
+- [ ] Academic support services
+
+**Admissions Information:**
+- [ ] Enrollment process (step-by-step)
+- [ ] Admission requirements
+- [ ] Required documents for application
+- [ ] Application deadlines
+- [ ] Age requirements per year group
+- [ ] Transfer student policy
+
+**Facilities & Programs:**
+- [ ] List of facilities (swimming pool, labs, etc.)
+- [ ] Extracurricular activities offered
+- [ ] Sports programs
+- [ ] Clubs and societies
+- [ ] Special programs or initiatives
+
+**Contact & Administrative:**
+- [ ] Office hours
+- [ ] Department contacts (if applicable)
+- [ ] Social media account URLs (Facebook, Instagram, Twitter, etc.)
+- [ ] Any existing brochures or promotional materials
+
+### 10.2 Visual Assets Checklist
+
+**Required Images (15-25 photos minimum):**
+- [ ] School logo (high resolution PNG/SVG, transparent background)
+- [ ] School building exterior (2-3 different angles)
+- [ ] Main entrance/reception area
+- [ ] Classrooms (3-4 photos showing students learning)
+- [ ] Swimming pool facility
+- [ ] Science laboratories
+- [ ] Computer labs/ICT facilities
+- [ ] Library or resource center
+- [ ] Sports facilities or playground
+- [ ] Students in activities (with parent consent forms)
+- [ ] Group photos (assemblies, events)
+- [ ] Campus grounds/outdoor spaces
+- [ ] Any special facilities or features
+
+**Image Requirements:**
+- High resolution (minimum 1920px wide)
+- Good lighting and composition
+- Students' faces visible (with consent) or tastefully obscured
+- Represent diversity of student body
+- Show active learning/engagement
+- Professional or high-quality smartphone photos acceptable
+
+**Optional Assets:**
+- [ ] School promotional video (if exists)
+- [ ] Virtual tour footage
+- [ ] Student artwork or projects
+- [ ] Awards or certificates (photos)
+- [ ] Staff photos (for About page)
+
+### 10.3 Technical Access Checklist
+
+**Domain & Hosting:**
+- [ ] Current domain credentials (if transferring)
+- [ ] Hosting account access (if existing)
+- [ ] Email account information
+
+**Social Media:**
+- [ ] Facebook page URL and admin access
+- [ ] Instagram account username
+- [ ] Twitter/X account (if applicable)
+- [ ] YouTube channel (if applicable)
+- [ ] LinkedIn page (if applicable)
+
+**Other:**
+- [ ] Google Business Profile access (if exists)
+- [ ] Any existing analytics accounts
+- [ ] Email system details (for form
